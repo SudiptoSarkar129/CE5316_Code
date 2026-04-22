@@ -46,6 +46,8 @@ Each sample is labeled with its corresponding clay type.
 ---
 
 ## Repository Structure
+
+```
 clay-classification-ml/
 │
 ├── data/
@@ -56,6 +58,7 @@ clay-classification-ml/
 │
 ├── README.md
 └── requirements.txt
+```
 ## How to Run
 
 1. Clone or download this repository  
